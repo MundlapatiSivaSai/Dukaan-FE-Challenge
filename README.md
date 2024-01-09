@@ -6,6 +6,9 @@ This project is a submission for the Dukaan Frontend Engineer role, focusing on 
 ## Figma Design
 The Figma design can be accessed [here](https://www.figma.com/file/bEYvZixY37eFbwT3fwzEyV).
 
+## Live Demo
+This project demo can be accessed [here](https://dukaan-fe-challenge-sivasai.netlify.app/).
+
 ## Installation
 
 To set up the project on your local machine, follow these steps:
